@@ -25,4 +25,4 @@ https://yagom.net/courses/ios-starter-uikit/
 
 9. Implement 'reset' feature
 
-10.Add 'Credit' view 
+10. Add 'Credit' view 
