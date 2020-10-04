@@ -15,5 +15,5 @@ https://yagom.net/courses/ios-starter-uikit/
 6. Generate the random number
 7. Compare the random number with input number
 8. Show alerts
-9. Implement 'reset' feature
+9. Implement 'reset' feature <br>
 10.Add 'Credit' view 
