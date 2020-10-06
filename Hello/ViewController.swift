@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    @IBOutlet weak var slider: UISlider!
+    @IBOutlet weak var slider: UISlider! 
 
     override func viewDidLoad() {
         super.viewDidLoad()
